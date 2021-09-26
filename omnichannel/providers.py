@@ -15,6 +15,7 @@ def jakmall_product_detail_scrapper(endpoint):
 		products = json.loads(script_cleaned)
 		results['products'] = products
 		results['products']['name'] = soup.find('div', 'crumb__link crumb__link--last').text
+		results['products']['long_desc'] = soup.find('div', 'dp__info mce')
 	except Exception as e:
 		results['message'] = e
 	return results

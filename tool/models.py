@@ -8,6 +8,8 @@ class JakmallScrapper(models.Model):
 	price = models.IntegerField(default=0, verbose_name='Price (normal)')
 	final_price = models.IntegerField(default=0, verbose_name='Price (after discount cut)')
 	discount = models.IntegerField(default=0, verbose_name='Discount (in %)')
+	short_desc = models.CharField(max_length=255, blank=True)
+	long_desc = models.TextField(blank=True)
 	stock = models.IntegerField(default=0)
 	weight = models.IntegerField(default=0, verbose_name='Price (in Gram)')
 	variant = models.CharField(max_length=551, blank=True)

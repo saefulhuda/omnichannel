@@ -59,6 +59,7 @@ class JakmallScrapperAdmin(admin.ModelAdmin):
 				save_product = JakmallScrapper.objects.create(
 					pid=product['id'],
 					name=product['name'],
+					long_desc=product['long_desc'].prettify(),
 					sku=sku['sku'] if sku['sku'] is not None else '',
 					price=sku['price']['list'],
 					final_price=sku['price']['final'],
