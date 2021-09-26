@@ -1,0 +1,76 @@
+{
+   "id":"4069774680756",
+   "sku":"None",
+   "weight":2000,
+   "images":[
+      {
+         "icon":"https://jakmall.id/2019/03/images/products/00125a/icon/sony-alpha-a6000-kit-16-50mm-f35-56-oss-grey-sony-e-35mm-f18.jpg?s=be3dec00de8fd524e3948e90f5d8d618",
+         "thumbnail":"https://jakmall.id/2019/03/images/products/00125a/thumbnail/sony-alpha-a6000-kit-16-50mm-f35-56-oss-grey-sony-e-35mm-f18.jpg?s=7780732da42e075dbeab08c8b0abd68d",
+         "detail":"https://jakmall.id/2019/03/images/products/00125a/detail/sony-alpha-a6000-kit-16-50mm-f35-56-oss-grey-sony-e-35mm-f18.jpg?s=a064344bc712661d7005a0d01a2d4ef4"
+      }
+   ],
+   "version":1,
+   "snapshot":"3858129806400",
+   "in_stock":true,
+   "is_limited_stock":false,
+   "limited_stock":"None",
+   "is_coming_soon":false,
+   "is_new":false,
+   "is_cheapest_event":false,
+   "isPromo":false,
+   "price_hash":"7PtAOe8",
+   "url":"https://www.jakmall.com/genesis-camera/sony-alpha-a6000-kit-16-50mm-f35-56-oss-grey-sony-e-35mm-f18#4069774680756",
+   "affiliate_inventory_url":{
+      "insert":"https://www.jakmall.com/affiliate/inventory/4069774680756/insert",
+      "delete":"https://www.jakmall.com/affiliate/inventory/4069774680756"
+   },
+   "price":{
+      "list":10599000,
+      "list_money":"Rp 10.599.000",
+      "normal":10599000,
+      "normal_money":"Rp 10.599.000",
+      "final":10599000,
+      "final_money":"Rp 10.599.000",
+      "discount":"None",
+      "standard_retail_price":"None",
+      "standard_retail_price_money":"None"
+   },
+   "bulk_prices":[
+      
+   ],
+   "installment_collection":{
+      "has_installment":true,
+      "value":10599000,
+      "installment_start_from":1158824,
+      "installments":[
+         {
+            "code":"kredivo_installment",
+            "name":"Kredivo",
+            "logo":"https://www.jakmall.com/images/desktop/footer/kredivo.png?5",
+            "information":[
+               "Simulasi di atas merupakan ilustrasi dari bunga cicilan Kredivo yang berlaku saat ini. Info detil hubungi CS Kredivo."
+            ],
+            "enabled":true,
+            "simulations":[
+               {
+                  "tenure":3,
+                  "monthly_value":3533000,
+                  "rate":0
+               },
+               {
+                  "tenure":6,
+                  "monthly_value":2042074,
+                  "rate":2.6
+               },
+               {
+                  "tenure":12,
+                  "monthly_value":1158824,
+                  "rate":2.6
+               }
+            ]
+         }
+      ]
+   },
+   "weight_information":"2kg",
+   "pre_order":"None"
+}

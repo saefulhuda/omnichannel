@@ -1,0 +1,3554 @@
+[
+   {
+      "name":"EOS M50 EF-M15-45mm Black",
+      "code":"6286741781549",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":1,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"3892246870052",
+            "sku":"EOSM50LB",
+            "price":11175000,
+            "normal_price":11175000,
+            "normal_affiliate_price":"None",
+            "final_price":11175000,
+            "final_price_affiliate":11175000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/eos-m50-ef-m15-45mm-black?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#3892246870052",
+            "image":"https://static.jakmall.id/2018/11/images/products/056734/thumbnail/eos-m50-ef-m15-45mm-black.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"522753128396940",
+            "rank":"None",
+            "price_hash":"q2tZbZL",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/eos-m50-ef-m15-45mm-black",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 200D with lens 18-55mm",
+      "code":"5101316848461",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":3,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"1241904875993",
+            "sku":"EOS200DLW",
+            "price":9340000,
+            "normal_price":9340000,
+            "normal_affiliate_price":"None",
+            "final_price":9340000,
+            "final_price_affiliate":9340000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-200d-with-lens-18-55mm?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#1241904875993",
+            "image":"https://static.jakmall.id/2018/11/images/products/bf2e0c/thumbnail/canon-digital-eos-200d-with-lens-18-55mm.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"63333992006012628",
+            "rank":"None",
+            "price_hash":"bPtE8E9",
+            "variants":{
+               "cd73d1f87ada255c28ba869919f699586f3903a8":"a30cc2d69ab84e638029f9165e28859631bc7565"
+            },
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         },
+         {
+            "code":"1463504793927",
+            "sku":"EOS200DLS",
+            "price":9340000,
+            "normal_price":9340000,
+            "normal_affiliate_price":"None",
+            "final_price":9340000,
+            "final_price_affiliate":9340000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-200d-with-lens-18-55mm?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#1463504793927",
+            "image":"https://static.jakmall.id/2018/11/images/products/ca9d38/thumbnail/canon-digital-eos-200d-with-lens-18-55mm.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"424229783968",
+            "rank":"None",
+            "price_hash":"Oktl0lr",
+            "variants":{
+               "cd73d1f87ada255c28ba869919f699586f3903a8":"f5b89d5360293f5447726030f1e23890b79fe4ad"
+            },
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-200d-with-lens-18-55mm",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":{
+         "cd73d1f87ada255c28ba869919f699586f3903a8":{
+            "name":"Warna",
+            "values":{
+               "a30cc2d69ab84e638029f9165e28859631bc7565":"Putih",
+               "f5b89d5360293f5447726030f1e23890b79fe4ad":"Silver"
+            },
+            "selected":"a30cc2d69ab84e638029f9165e28859631bc7565",
+            "previous":"None"
+         }
+      },
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 750D Body Only Wifi",
+      "code":"4078746824823",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"5205204602322",
+            "sku":"EOS750D",
+            "price":8110000,
+            "normal_price":8110000,
+            "normal_affiliate_price":"None",
+            "final_price":8110000,
+            "final_price_affiliate":8110000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-750d-body-only-wifi?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#5205204602322",
+            "image":"https://static.jakmall.id/2018/11/images/products/b7707c/thumbnail/canon-digital-eos-750d-body-only-wifi.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"5668663170047104",
+            "rank":"None",
+            "price_hash":"NltdQGQ",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-750d-body-only-wifi",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 800D with lens 18-55mm",
+      "code":"8878965432165",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"4326723481598",
+            "sku":"EOS800DL",
+            "price":11520000,
+            "normal_price":11520000,
+            "normal_affiliate_price":"None",
+            "final_price":11520000,
+            "final_price_affiliate":11520000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-800d-with-lens-18-55mm?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#4326723481598",
+            "image":"https://static.jakmall.id/2018/11/images/products/2f95d2/thumbnail/canon-digital-eos-800d-with-lens-18-55mm.png",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"44784273971712",
+            "rank":"None",
+            "price_hash":"oXtDwjG",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-800d-with-lens-18-55mm",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 77D Body Only",
+      "code":"9723025242992",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":1000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"4564361848876",
+            "sku":"EOS77D",
+            "price":12405000,
+            "normal_price":12405000,
+            "normal_affiliate_price":"None",
+            "final_price":12405000,
+            "final_price_affiliate":12405000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-77d-body-only?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#4564361848876",
+            "image":"https://static.jakmall.id/2018/11/images/products/93b6a9/thumbnail/canon-digital-eos-77d-body-only.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"64423671232896896",
+            "rank":"None",
+            "price_hash":"xwtdLA0",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-77d-body-only",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 80D Body Only Wifi",
+      "code":"8115799773747",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":1000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"2922171353490",
+            "sku":"EOS80D",
+            "price":15860000,
+            "normal_price":15860000,
+            "normal_affiliate_price":"None",
+            "final_price":15860000,
+            "final_price_affiliate":15860000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-80d-body-only-wifi?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#2922171353490",
+            "image":"https://static.jakmall.id/2018/11/images/products/40e686/thumbnail/canon-digital-eos-80d-body-only-wifi.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"395796331410",
+            "rank":"None",
+            "price_hash":"rYtA3E7",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-80d-body-only-wifi",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 80D w/ lens 18-55mm IS STM Wifi",
+      "code":"1947240239847",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"6252205293634",
+            "sku":"EOS80DL",
+            "price":21595000,
+            "normal_price":21595000,
+            "normal_affiliate_price":"None",
+            "final_price":21595000,
+            "final_price_affiliate":21595000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-80d-w-lens-18-55mm-is-stm-wifi?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#6252205293634",
+            "image":"https://static.jakmall.id/2018/11/images/products/27c3a9/thumbnail/canon-digital-eos-80d-w-lens-18-55mm-is-stm-wifi.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"37228563016",
+            "rank":"None",
+            "price_hash":"0wtZGWe",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-80d-w-lens-18-55mm-is-stm-wifi",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 80D w/ lens 18-135mm IS USM Wifi",
+      "code":"9035109079071",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":1,
+      "is_free_shipping":false,
+      "weight":2500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"4485507227932",
+            "sku":"EOS80DL135",
+            "price":21595000,
+            "normal_price":21595000,
+            "normal_affiliate_price":"None",
+            "final_price":21595000,
+            "final_price_affiliate":21595000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-80d-w-lens-18-135mm-is-usm-wifi?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#4485507227932",
+            "image":"https://static.jakmall.id/2018/11/images/products/cc65a7/thumbnail/canon-digital-eos-80d-w-lens-18-135mm-is-usm-wifi.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"5436881409264640",
+            "rank":"None",
+            "price_hash":"dEtWdab",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-80d-w-lens-18-135mm-is-usm-wifi",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 7D Mark II Body Only + W-E1",
+      "code":"8109246214356",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":1500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"3527845369930",
+            "sku":"EOS7DIIW",
+            "price":24185000,
+            "normal_price":24185000,
+            "normal_affiliate_price":"None",
+            "final_price":24185000,
+            "final_price_affiliate":24185000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-7d-mark-ii-body-only-w-e1?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#3527845369930",
+            "image":"https://static.jakmall.id/2018/11/images/products/efb06d/thumbnail/canon-digital-eos-7d-mark-ii-body-only-w-e1.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"357332112675",
+            "rank":"None",
+            "price_hash":"RptP1ED",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-7d-mark-ii-body-only-w-e1",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 6D Body Only",
+      "code":"2310234419326",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":1000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"3822106469114",
+            "sku":"EOS6D",
+            "price":21655000,
+            "normal_price":21655000,
+            "normal_affiliate_price":"None",
+            "final_price":21655000,
+            "final_price_affiliate":21655000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-6d-body-only?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#3822106469114",
+            "image":"https://static.jakmall.id/2018/11/images/products/5d2091/thumbnail/canon-digital-eos-6d-body-only.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"727925636939354240",
+            "rank":"None",
+            "price_hash":"0wtZGpZ",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-6d-body-only",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon PowerShot G7X Mark II",
+      "code":"9676138576034",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":2,
+      "is_free_shipping":false,
+      "weight":800,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"6619263408165",
+            "sku":"PSG7XMKII",
+            "price":7447000,
+            "normal_price":7447000,
+            "normal_affiliate_price":"None",
+            "final_price":7447000,
+            "final_price_affiliate":7447000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-powershot-g7x-mark-ii?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#6619263408165",
+            "image":"https://static.jakmall.id/2018/11/images/products/7a47a5/thumbnail/canon-powershot-g7x-mark-ii.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"47689924052752",
+            "rank":"None",
+            "price_hash":"NltdQQy",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-powershot-g7x-mark-ii",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Sony a5100 ILCE5100L - Kamera Digital",
+      "code":"4463689133926",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":3,
+      "is_free_shipping":false,
+      "weight":3000,
+      "restriction":"None",
+      "brand":{
+         "name":"Sony",
+         "image":"https://static.jakmall.id/images/brands/da07cf/icon/sony.png"
+      },
+      "store":{
+         "name":"Gadget Addict Store",
+         "image":"https://static.jakmall.id/2019/03/images/stores/11e929e7767ed85e955e002590f3b526/profile/1553917981/icon/gadget-addict-store.jpg",
+         "is_official":false,
+         "url":"https://www.jakmall.com/gadget-addict-store",
+         "is_opened":true
+      },
+      "warehouse":{
+         "drop_ship":true,
+         "affiliate":true,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"1622101506992",
+            "sku":"",
+            "price":5999000,
+            "normal_price":5549000,
+            "normal_affiliate_price":"None",
+            "final_price":5549000,
+            "final_price_affiliate":5549000,
+            "discount":450000,
+            "discount_percentage":8,
+            "has_discount":true,
+            "url":"https://www.jakmall.com/gadget-addict-store/sony-a5100-ilce5100l-kamera-digital?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#1622101506992",
+            "image":"https://static.jakmall.id/2019/03/images/products/71ca35/thumbnail/sony-a5100-ilce5100l-kamera-digital.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"48527218387680",
+            "rank":"None",
+            "price_hash":"3ntk8ay",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         },
+         {
+            "id":2,
+            "code":"JNE_YES",
+            "name":"JNE YES"
+         },
+         {
+            "id":5,
+            "code":"SICEPAT_REG",
+            "name":"SiCepat REG"
+         },
+         {
+            "id":6,
+            "code":"SICEPAT_BEST",
+            "name":"SiCepat BEST"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/gadget-addict-store/sony-a5100-ilce5100l-kamera-digital",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 5DSR",
+      "code":"9154313682408",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"7572505882177",
+            "sku":"EOS5DSR",
+            "price":50095000,
+            "normal_price":50095000,
+            "normal_affiliate_price":"None",
+            "final_price":50095000,
+            "final_price_affiliate":50095000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5dsr?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#7572505882177",
+            "image":"https://static.jakmall.id/2018/11/images/products/87ed42/thumbnail/canon-digital-eos-5dsr.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"2231836114",
+            "rank":"None",
+            "price_hash":"G6tp3yZ",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5dsr",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon EOS 3000D with lens 18-55mm DC III",
+      "code":"7864938845729",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":1,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"2587580525579",
+            "sku":"EOS3000DC",
+            "price":5265000,
+            "normal_price":5265000,
+            "normal_affiliate_price":"None",
+            "final_price":5265000,
+            "final_price_affiliate":5265000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-eos-3000d-with-lens-18-55mm-dc-iii?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#2587580525579",
+            "image":"https://static.jakmall.id/2018/11/images/products/ec7df7/thumbnail/canon-eos-3000d-with-lens-18-55mm-dc-iii.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"27817120208",
+            "rank":"None",
+            "price_hash":"bPtE8Ey",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-eos-3000d-with-lens-18-55mm-dc-iii",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 750D w/ lens 18-135mm STM Wifi",
+      "code":"4889533591880",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"2014487348983",
+            "sku":"EOS750DL135",
+            "price":13465000,
+            "normal_price":13465000,
+            "normal_affiliate_price":"None",
+            "final_price":13465000,
+            "final_price_affiliate":13465000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-750d-w-lens-18-135mm-stm-wifi?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#2014487348983",
+            "image":"https://static.jakmall.id/2018/11/images/products/469b1c/thumbnail/canon-digital-eos-750d-w-lens-18-135mm-stm-wifi.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"69533382971987200",
+            "rank":"None",
+            "price_hash":"e3tj2lj",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-750d-w-lens-18-135mm-stm-wifi",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 800D Body Only",
+      "code":"4374062865552",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":1,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"9779786446495",
+            "sku":"EOS800D",
+            "price":9655000,
+            "normal_price":9655000,
+            "normal_affiliate_price":"None",
+            "final_price":9655000,
+            "final_price_affiliate":9655000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-800d-body-only?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#9779786446495",
+            "image":"https://static.jakmall.id/2018/11/images/products/f2eae6/thumbnail/canon-digital-eos-800d-body-only.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"354848923040",
+            "rank":"None",
+            "price_hash":"l0tvNrG",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-800d-body-only",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 7D Mk II with lens 18-135 + W-E1",
+      "code":"8118134407447",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"5987926376751",
+            "sku":"EOS7DIIL135W",
+            "price":30285000,
+            "normal_price":30285000,
+            "normal_affiliate_price":"None",
+            "final_price":30285000,
+            "final_price_affiliate":30285000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-7d-mk-ii-with-lens-18-135-w-e1?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#5987926376751",
+            "image":"https://static.jakmall.id/2018/11/images/products/f3d906/thumbnail/canon-digital-eos-7d-mk-ii-with-lens-18-135-w-e1.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"5584983523299840",
+            "rank":"None",
+            "price_hash":"VYt9QPj",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-7d-mk-ii-with-lens-18-135-w-e1",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 6D mark II with lens 24-70mm L",
+      "code":"6439615373815",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"7439542307484",
+            "sku":"EOS6DIIL70",
+            "price":37195000,
+            "normal_price":37195000,
+            "normal_affiliate_price":"None",
+            "final_price":37195000,
+            "final_price_affiliate":37195000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-6d-mark-ii-with-lens-24-70mm-l?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#7439542307484",
+            "image":"https://static.jakmall.id/2018/11/images/products/f8209c/thumbnail/canon-digital-eos-6d-mark-ii-with-lens-24-70mm-l.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"384988120800",
+            "rank":"None",
+            "price_hash":"PptY9yo",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-6d-mark-ii-with-lens-24-70mm-l",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon PowerShot G3X",
+      "code":"2741467329751",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":800,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"9322398359346",
+            "sku":"PSG3X",
+            "price":10923000,
+            "normal_price":10923000,
+            "normal_affiliate_price":"None",
+            "final_price":10923000,
+            "final_price_affiliate":10923000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-powershot-g3x?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#9322398359346",
+            "image":"https://static.jakmall.id/2018/11/images/products/f2819b/thumbnail/canon-powershot-g3x.jpeg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"5944772156207760",
+            "rank":"None",
+            "price_hash":"RptP11r",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-powershot-g3x",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"EOS M6 Silver with EF-M15-45mm",
+      "code":"8468670595063",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"7290994119851",
+            "sku":"EOSM6LS",
+            "price":10470000,
+            "normal_price":10470000,
+            "normal_affiliate_price":"None",
+            "final_price":10470000,
+            "final_price_affiliate":10470000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/eos-m6-silver-with-ef-m15-45mm?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#7290994119851",
+            "image":"https://static.jakmall.id/2018/11/images/products/377651/thumbnail/eos-m6-silver-with-ef-m15-45mm.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"7948338425350921216",
+            "rank":"None",
+            "price_hash":"QktWG8r",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/eos-m6-silver-with-ef-m15-45mm",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Powershot SX530HS - SLR Camera",
+      "code":"7486793004501",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":1,
+      "is_free_shipping":false,
+      "weight":1200,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Gadget Addict Store",
+         "image":"https://static.jakmall.id/2019/03/images/stores/11e929e7767ed85e955e002590f3b526/profile/1553917981/icon/gadget-addict-store.jpg",
+         "is_official":false,
+         "url":"https://www.jakmall.com/gadget-addict-store",
+         "is_opened":true
+      },
+      "warehouse":{
+         "drop_ship":true,
+         "affiliate":true,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"3484472886036",
+            "sku":"",
+            "price":4899000,
+            "normal_price":4199000,
+            "normal_affiliate_price":"None",
+            "final_price":4199000,
+            "final_price_affiliate":4199000,
+            "discount":700000,
+            "discount_percentage":15,
+            "has_discount":true,
+            "url":"https://www.jakmall.com/gadget-addict-store/canon-powershot-sx530hs-slr-camera?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#3484472886036",
+            "image":"https://static.jakmall.id/2019/03/images/products/97dccb/thumbnail/canon-powershot-sx530hs-slr-camera.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"7684524517714342400",
+            "rank":"None",
+            "price_hash":"AjtLkkP",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         },
+         {
+            "id":2,
+            "code":"JNE_YES",
+            "name":"JNE YES"
+         },
+         {
+            "id":5,
+            "code":"SICEPAT_REG",
+            "name":"SiCepat REG"
+         },
+         {
+            "id":6,
+            "code":"SICEPAT_BEST",
+            "name":"SiCepat BEST"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/gadget-addict-store/canon-powershot-sx530hs-slr-camera",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Eos 40D BO Ex DS With Lensa Tamron AF18-200mm free BG E2N",
+      "code":"8225332758229",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":1,
+      "is_free_shipping":false,
+      "weight":4000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Genesis Camera",
+         "image":"https://static.jakmall.id/2019/03/images/stores/11e94ecc14ef5f8298df002590f3b526/profile/1553657485/icon/genesis-camera.gif",
+         "is_official":false,
+         "url":"https://www.jakmall.com/genesis-camera",
+         "is_opened":true
+      },
+      "warehouse":{
+         "drop_ship":true,
+         "affiliate":false,
+         "city":{
+            "name":"Surabaya",
+            "province":{
+               "name":"Jawa Timur"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"5580804570529",
+            "sku":"",
+            "price":4000000,
+            "final_price":4000000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/genesis-camera/canon-eos-40d-bo-ex-ds-with-lensa-tamron-af18-200mm-free-bg-e2n?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#5580804570529",
+            "image":"https://static.jakmall.id/2019/05/images/products/c83715/thumbnail/canon-eos-40d-bo-ex-ds-with-lensa-tamron-af18-200mm-free-bg-e2n.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"788344237997995008",
+            "rank":"None",
+            "price_hash":"pAt8kNX",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         },
+         {
+            "id":7,
+            "code":"GO_SEND",
+            "name":"GO-SEND Instant"
+         },
+         {
+            "id":8,
+            "code":"GO_SEND_SAME_DAY",
+            "name":"GO-SEND Same Day"
+         },
+         {
+            "id":2,
+            "code":"JNE_YES",
+            "name":"JNE YES"
+         },
+         {
+            "id":5,
+            "code":"SICEPAT_REG",
+            "name":"SiCepat REG"
+         },
+         {
+            "id":6,
+            "code":"SICEPAT_BEST",
+            "name":"SiCepat BEST"
+         },
+         {
+            "id":9,
+            "code":"SICEPAT_SAME_DAY",
+            "name":"SiCepat Same Day"
+         },
+         {
+            "id":12,
+            "code":"JNE_JTR",
+            "name":"JNE Trucking"
+         },
+         {
+            "id":13,
+            "code":"GRAB_INSTANT",
+            "name":"Grab-Express Instant"
+         },
+         {
+            "id":14,
+            "code":"GRAB_SAME_DAY",
+            "name":"Grab-Express Same Day"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/genesis-camera/canon-eos-40d-bo-ex-ds-with-lensa-tamron-af18-200mm-free-bg-e2n",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon PowerShot SX430",
+      "code":"1432805363375",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":3,
+      "is_free_shipping":false,
+      "weight":600,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"7224438546538",
+            "sku":"PSSX430",
+            "price":2904000,
+            "normal_price":2904000,
+            "normal_affiliate_price":"None",
+            "final_price":2904000,
+            "final_price_affiliate":2904000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-powershot-sx430?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#7224438546538",
+            "image":"https://static.jakmall.id/2018/11/images/products/a7e8d4/thumbnail/canon-powershot-sx430.png",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"65227661539437760",
+            "rank":"None",
+            "price_hash":"dEtVZZN",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-powershot-sx430",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 77D with lens 18-135mm",
+      "code":"7635582142796",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":2,
+      "is_free_shipping":false,
+      "weight":2500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"5581511228500",
+            "sku":"EOS77DL135",
+            "price":17875000,
+            "normal_price":17875000,
+            "normal_affiliate_price":"None",
+            "final_price":17875000,
+            "final_price_affiliate":17875000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-77d-with-lens-18-135mm?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#5581511228500",
+            "image":"https://static.jakmall.id/2018/11/images/products/2013be/thumbnail/canon-digital-eos-77d-with-lens-18-135mm.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"6356262660551760",
+            "rank":"None",
+            "price_hash":"yGtyvBW",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-77d-with-lens-18-135mm",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 5D Mark IV with lens 24-105mm L",
+      "code":"2393189887321",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":3000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"1812591935548",
+            "sku":"EOS5DIV105",
+            "price":62180000,
+            "normal_price":62180000,
+            "normal_affiliate_price":"None",
+            "final_price":62180000,
+            "final_price_affiliate":62180000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iv-with-lens-24-105mm-l?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#1812591935548",
+            "image":"https://static.jakmall.id/2018/11/images/products/5889e4/thumbnail/canon-digital-eos-5d-mark-iv-with-lens-24-105mm-l.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"25913769190",
+            "rank":"None",
+            "price_hash":"Kkt7n8k",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iv-with-lens-24-105mm-l",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 1DX Mark II",
+      "code":"5192307985392",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":3000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"9226971635463",
+            "sku":"EOS1DXMKII",
+            "price":85210000,
+            "normal_price":85210000,
+            "normal_affiliate_price":"None",
+            "final_price":85210000,
+            "final_price_affiliate":85210000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-1dx-mark-ii?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#9226971635463",
+            "image":"https://static.jakmall.id/2018/11/images/products/0f6ae6/thumbnail/canon-digital-eos-1dx-mark-ii.png",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"48344117512064",
+            "rank":"None",
+            "price_hash":"XYtDxYo",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-1dx-mark-ii",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 77D with lens 18-55mm",
+      "code":"5119826686690",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":1,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"9749400384679",
+            "sku":"EOS77DL",
+            "price":11520000,
+            "normal_price":11520000,
+            "normal_affiliate_price":"None",
+            "final_price":11520000,
+            "final_price_affiliate":11520000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-77d-with-lens-18-55mm?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#9749400384679",
+            "image":"https://static.jakmall.id/2018/11/images/products/573410/thumbnail/canon-digital-eos-77d-with-lens-18-55mm.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"393216512444",
+            "rank":"None",
+            "price_hash":"6Mt7Pow",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-77d-with-lens-18-55mm",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 6D mark II with lens 24-105mm L",
+      "code":"1128315216949",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":1500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"3046693073101",
+            "sku":"EOS6DIIL105",
+            "price":40535000,
+            "normal_price":40535000,
+            "normal_affiliate_price":"None",
+            "final_price":40535000,
+            "final_price_affiliate":40535000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-6d-mark-ii-with-lens-24-105mm-l?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#3046693073101",
+            "image":"https://static.jakmall.id/2018/11/images/products/9a26a6/thumbnail/canon-digital-eos-6d-mark-ii-with-lens-24-105mm-l.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"3789154210896",
+            "rank":"None",
+            "price_hash":"jgtyLNQ",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-6d-mark-ii-with-lens-24-105mm-l",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon PowerShot G1X Mark III",
+      "code":"3242963254040",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":800,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"8158300510065",
+            "sku":"PSG1XMKIII",
+            "price":14355000,
+            "normal_price":14355000,
+            "normal_affiliate_price":"None",
+            "final_price":14355000,
+            "final_price_affiliate":14355000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-powershot-g1x-mark-iii?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#8158300510065",
+            "image":"https://static.jakmall.id/2018/11/images/products/e7e413/thumbnail/canon-powershot-g1x-mark-iii.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"2647333896",
+            "rank":"None",
+            "price_hash":"0wtZGGP",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-powershot-g1x-mark-iii",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 5D mark III",
+      "code":"7751411783076",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":1000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"8638496263196",
+            "sku":"EOS5DMKIII",
+            "price":37815000,
+            "normal_price":37815000,
+            "normal_affiliate_price":"None",
+            "final_price":37815000,
+            "final_price_affiliate":37815000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iii?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#8638496263196",
+            "image":"https://static.jakmall.id/2018/11/images/products/22712e/thumbnail/canon-digital-eos-5d-mark-iii.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"553744514076640",
+            "rank":"None",
+            "price_hash":"ZytMpXV",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iii",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 5D mark III with lens EF 24-105",
+      "code":"8423417209156",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"1540730790232",
+            "sku":"EOS5DMKIIIL",
+            "price":49170000,
+            "normal_price":49170000,
+            "normal_affiliate_price":"None",
+            "final_price":49170000,
+            "final_price_affiliate":49170000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iii-with-lens-ef-24-105?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#1540730790232",
+            "image":"https://static.jakmall.id/2018/11/images/products/5a6361/thumbnail/canon-digital-eos-5d-mark-iii-with-lens-ef-24-105.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"52725285679720",
+            "rank":"None",
+            "price_hash":"l0tvN8z",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iii-with-lens-ef-24-105",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 5D mark III with lens EF 24-70",
+      "code":"2918011635804",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":3000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"3364013397131",
+            "sku":"EOS5DMKIIIL70",
+            "price":45190000,
+            "normal_price":45190000,
+            "normal_affiliate_price":"None",
+            "final_price":45190000,
+            "final_price_affiliate":45190000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iii-with-lens-ef-24-70?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#3364013397131",
+            "image":"https://static.jakmall.id/2018/11/images/products/efb498/thumbnail/canon-digital-eos-5d-mark-iii-with-lens-ef-24-70.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"338966098592",
+            "rank":"None",
+            "price_hash":"oXtDwqp",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iii-with-lens-ef-24-70",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 5DS",
+      "code":"3163359024828",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"6906189985653",
+            "sku":"EOS5DS",
+            "price":43760000,
+            "normal_price":43760000,
+            "normal_affiliate_price":"None",
+            "final_price":43760000,
+            "final_price_affiliate":43760000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5ds?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#6906189985653",
+            "image":"https://static.jakmall.id/2018/11/images/products/d06f23/thumbnail/canon-digital-eos-5ds.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"546744822573696",
+            "rank":"None",
+            "price_hash":"xwtdLME",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5ds",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon EOS 1500D with lens 18-55mm IS II",
+      "code":"7759511728054",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"2656558318590",
+            "sku":"EOS1500DL",
+            "price":6650000,
+            "normal_price":6650000,
+            "normal_affiliate_price":"None",
+            "final_price":6650000,
+            "final_price_affiliate":6650000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-eos-1500d-with-lens-18-55mm-is-ii?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#2656558318590",
+            "image":"https://static.jakmall.id/2018/11/images/products/8c4ebb/thumbnail/canon-eos-1500d-with-lens-18-55mm-is-ii.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"536485880505280",
+            "rank":"None",
+            "price_hash":"WytQ7QM",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-eos-1500d-with-lens-18-55mm-is-ii",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 750D w/ lens 18-55mm STM Wifi",
+      "code":"7261313527647",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"3369971077566",
+            "sku":"EOS750DL",
+            "price":9975000,
+            "normal_price":9975000,
+            "normal_affiliate_price":"None",
+            "final_price":9975000,
+            "final_price_affiliate":9975000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-750d-w-lens-18-55mm-stm-wifi?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#3369971077566",
+            "image":"https://static.jakmall.id/2018/11/images/products/e2748a/thumbnail/canon-digital-eos-750d-w-lens-18-55mm-stm-wifi.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"47286205470048",
+            "rank":"None",
+            "price_hash":"YYtWKXN",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-750d-w-lens-18-55mm-stm-wifi",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 800D with lens 18-135mm",
+      "code":"2733889931421",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"5368404687226",
+            "sku":"EOS800DL135",
+            "price":15020000,
+            "normal_price":15020000,
+            "normal_affiliate_price":"None",
+            "final_price":15020000,
+            "final_price_affiliate":15020000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-800d-with-lens-18-135mm?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#5368404687226",
+            "image":"https://static.jakmall.id/2018/11/images/products/524593/thumbnail/canon-digital-eos-800d-with-lens-18-135mm.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"29924767856",
+            "rank":"None",
+            "price_hash":"3ntk0RA",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-800d-with-lens-18-135mm",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 80D w/ lens 18-200mm IS Wifi",
+      "code":"1917263331304",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":3000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"6883258792897",
+            "sku":"EOS80DL200",
+            "price":21970000,
+            "normal_price":21970000,
+            "normal_affiliate_price":"None",
+            "final_price":21970000,
+            "final_price_affiliate":21970000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-80d-w-lens-18-200mm-is-wifi?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#6883258792897",
+            "image":"https://static.jakmall.id/2018/11/images/products/c22503/thumbnail/canon-digital-eos-80d-w-lens-18-200mm-is-wifi.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"353836699840",
+            "rank":"None",
+            "price_hash":"WytQ7pM",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-80d-w-lens-18-200mm-is-wifi",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 6D mark II Body Only",
+      "code":"2955213113206",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":1000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"7736194061923",
+            "sku":"EOS6DII",
+            "price":26255000,
+            "normal_price":26255000,
+            "normal_affiliate_price":"None",
+            "final_price":26255000,
+            "final_price_affiliate":26255000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-6d-mark-ii-body-only?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#7736194061923",
+            "image":"https://static.jakmall.id/2018/11/images/products/00d2d8/thumbnail/canon-digital-eos-6d-mark-ii-body-only.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"327625701732",
+            "rank":"None",
+            "price_hash":"VYt9QvL",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-6d-mark-ii-body-only",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 5D Mark IV Body Only",
+      "code":"9682397242511",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":1000,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"4639072657115",
+            "sku":"EOS5DIV",
+            "price":49860000,
+            "normal_price":49860000,
+            "normal_affiliate_price":"None",
+            "final_price":49860000,
+            "final_price_affiliate":49860000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iv-body-only?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#4639072657115",
+            "image":"https://static.jakmall.id/2018/11/images/products/3e078b/thumbnail/canon-digital-eos-5d-mark-iv-body-only.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"43977404812863",
+            "rank":"None",
+            "price_hash":"Oktl0MX",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iv-body-only",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon Digital EOS 5D Mark IV with lens 24-70mm L",
+      "code":"7401520362693",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":0,
+      "is_free_shipping":false,
+      "weight":2500,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"9446869778988",
+            "sku":"EOS5DIV70",
+            "price":58900000,
+            "normal_price":58900000,
+            "normal_affiliate_price":"None",
+            "final_price":58900000,
+            "final_price_affiliate":58900000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iv-with-lens-24-70mm-l?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#9446869778988",
+            "image":"https://static.jakmall.id/2018/11/images/products/c47c1b/thumbnail/canon-digital-eos-5d-mark-iv-with-lens-24-70mm-l.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"374761055176",
+            "rank":"None",
+            "price_hash":"9Bt3nBk",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-digital-eos-5d-mark-iv-with-lens-24-70mm-l",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon PowerShot SX60",
+      "code":"9498113688699",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":2,
+      "is_free_shipping":false,
+      "weight":800,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"3322300524275",
+            "sku":"PSSX60",
+            "price":6182000,
+            "normal_price":6182000,
+            "normal_affiliate_price":"None",
+            "final_price":6182000,
+            "final_price_affiliate":6182000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-powershot-sx60?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#3322300524275",
+            "image":"https://static.jakmall.id/2018/11/images/products/9604a3/thumbnail/canon-powershot-sx60.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"7977725328298930310",
+            "rank":"None",
+            "price_hash":"Kkt7nng",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":true
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-powershot-sx60",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon PowerShot SX540 IS",
+      "code":"3608366220809",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":2,
+      "is_free_shipping":false,
+      "weight":600,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"Modern IT Store",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e8e19951da189293d7002590f3b526/profile/1547715106/icon/modern-it-store.png",
+         "is_official":false,
+         "url":"https://www.jakmall.com/modern-it-store",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"5537547822676",
+            "sku":"PSSX540",
+            "price":4532000,
+            "normal_price":4532000,
+            "normal_affiliate_price":"None",
+            "final_price":4532000,
+            "final_price_affiliate":4532000,
+            "discount":0,
+            "discount_percentage":0,
+            "has_discount":false,
+            "url":"https://www.jakmall.com/modern-it-store/canon-powershot-sx540-is?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#5537547822676",
+            "image":"https://static.jakmall.id/2018/11/images/products/b94931/thumbnail/canon-powershot-sx540-is.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"552945549815400",
+            "rank":"None",
+            "price_hash":"bPtOggq",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/modern-it-store/canon-powershot-sx540-is",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   },
+   {
+      "name":"Canon EOS 200D 18-55mm Mark II IS Black",
+      "code":"3712942124447",
+      "rating":"None",
+      "review_count":0,
+      "sold":0,
+      "watcher":1,
+      "is_free_shipping":false,
+      "weight":750,
+      "restriction":"None",
+      "brand":{
+         "name":"Canon",
+         "image":"https://static.jakmall.id/images/brands/838cb5/icon/canon.png"
+      },
+      "store":{
+         "name":"ARENA_IT",
+         "image":"https://static.jakmall.id/2019/01/images/stores/11e918a1ac23194a86f3002590f3b526/profile/1547782598/icon/arena-it.jpg",
+         "is_official":false,
+         "url":"https://www.jakmall.com/arena-it",
+         "is_opened":false
+      },
+      "warehouse":{
+         "drop_ship":false,
+         "affiliate":false,
+         "city":{
+            "name":"DKI Jakarta",
+            "province":{
+               "name":"DKI Jakarta"
+            }
+         }
+      },
+      "sku":[
+         {
+            "code":"1604435266356",
+            "sku":"EOS200DIIL",
+            "price":9979000,
+            "normal_price":8479000,
+            "normal_affiliate_price":"None",
+            "final_price":8479000,
+            "final_price_affiliate":8479000,
+            "discount":1500000,
+            "discount_percentage":16,
+            "has_discount":true,
+            "url":"https://www.jakmall.com/arena-it/canon-eos-200d-18-55mm-mark-ii-is-black?jtm=789c8b564a4e2c494dcf2faa54d2512a28ca4f294d2ed1cdc92c2e01728b2b8b755185f24a737274a263630113eb1366#1604435266356",
+            "image":"https://static.jakmall.id/2019/06/images/products/73e84b/thumbnail/canon-eos-200d-18-55mm-mark-ii-is-black.jpg",
+            "in_stock":false,
+            "limited_stock":0,
+            "is_cheapest_event":false,
+            "cheapest_at":"None",
+            "snapshot":"28414381920",
+            "rank":"None",
+            "price_hash":"QktK9D7",
+            "variants":[
+               
+            ],
+            "standard_retail_price":"None",
+            "is_new":false,
+            "is_coming_soon":false
+         }
+      ],
+      "delivery_types":[
+         {
+            "id":1,
+            "code":"JNE_REG",
+            "name":"JNE REG"
+         },
+         {
+            "id":2,
+            "code":"JNE_YES",
+            "name":"JNE YES"
+         }
+      ],
+      "badges":[
+         
+      ],
+      "url":"https://www.jakmall.com/arena-it/canon-eos-200d-18-55mm-mark-ii-is-black",
+      "matrix":[
+         
+      ],
+      "selected":0,
+      "variants":[
+         
+      ],
+      "is_owner":false
+   }
+]

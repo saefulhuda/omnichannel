@@ -1,0 +1,35 @@
+{% extends "admin/change_list.html" %}
+{% load static %}
+{% block content %}
+<form action="" method="GET">
+	{% csrf_token %}
+	<div class="action">
+		<input type="text" size="60" name="jm_endpoint" placeholder="Jakmall URL">
+		<input class="button" type="submit" value="Scrap">
+	</div>
+</form>
+<h3>Scrap form</h3>
+{% if message != '' %}
+<p class="errornote">{{ message }}</p>
+{% endif %}
+<br>
+{{ block.super }}
+<script
+  src="https://code.jquery.com/jquery-3.6.0.slim.js"
+  integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY="
+  crossorigin="anonymous"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		checkedall = false;
+		$('#action-toggle').click(function() {
+			if (checkedall == true) {
+				$('.action-select').removeAttr('checked', true);
+				checkedall = false;
+			} else {
+				$('.action-select').attr('checked', true);
+				checkedall = true;
+			}
+		});
+	});
+</script>
+{% endblock %}
