@@ -22,7 +22,7 @@
 		var btnSync = $('#sync');
 		btnSync.click(function() {
 			btnSync.text('Please wait ..');
-			$.get('http://127.0.0.1:8000/tool/cron-jakmall-sync', function(data) {
+			$.get('/tool/cron-jakmall-sync', function(data) {
 				btnSync.text('Sync Master');
 				alert(data['message']);
 				window.location.reload();
