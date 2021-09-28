@@ -1,23 +1,11 @@
 {% extends "admin/change_list.html" %}
 {% load static %}
 {% block content %}
-<form action="" method="GET">
-	{% csrf_token %}
-	<div class="action">
-		<input type="text" size="80" name="jm_endpoint" placeholder="Jakmall URL">
-		<input class="button" type="submit" value="Scrap">
-	</div>
-</form>
-<h3>Scrap form</h3>
-{% if message != '' %}
-<p class="errornote">{{ message }}</p>
-{% endif %}
+<button id="sync" class="button">Sync Master</button>
+<div id="forMessage"></div>
 <br>
 {{ block.super }}
-<script
-  src="https://code.jquery.com/jquery-3.6.0.slim.js"
-  integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY="
-  crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
 		checkedall = false;
@@ -29,6 +17,16 @@
 				$('.action-select').attr('checked', true);
 				checkedall = true;
 			}
+		});
+
+		var btnSync = $('#sync');
+		btnSync.click(function() {
+			btnSync.text('Please wait ..');
+			$.get('http://127.0.0.1:8000/tool/cron-jakmall-sync', function(data) {
+				btnSync.text('Sync Master');
+				alert(data['message']);
+				window.location.reload();
+			});
 		});
 	});
 </script>

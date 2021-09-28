@@ -12,7 +12,8 @@ admin.site.site_header = 'Omnichannel Marketplace'
 
 class JakmallScrapperAdmin(admin.ModelAdmin):
 	search_fields = ['name', 'sku']
-	list_display = ('image', 'name', 'seller', 'price', 'final_price', 'stock', 'sold_count', 'review_count', 'rating_count', 'created_time')
+	list_display = ('image', 'name', 'final_price', 'stock', 'weight', 'created_time')
+	# list_display = ('image', 'name', 'seller', 'price', 'final_price', 'stock', 'sold_count', 'review_count', 'rating_count', 'created_time')
 	list_filter = ('seller',)
 	list_per_page = 20
 	products = []
